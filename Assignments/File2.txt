@@ -1,0 +1,9 @@
+Data Science has become the most demanding job of the 21st century. 
+Every organization is looking for candidates with knowledge of data science. 
+In this tutorial, we are giving an introduction to data science, with data science Job roles, tools for data science, components of data science, application, etc.
+Data science is a deep study of the massive amount of data, which involves extracting meaningful insights from raw, structured, and unstructured data that is processed using the scientific method, different technologies, and algorithms.
+It is a multidisciplinary field that uses tools and techniques to manipulate the data so that you can find something new and meaningful.
+Data science uses the most powerful hardware, programming systems, and most efficient algorithms to solve the data related problems. It is the future of artificial intelligence.
+The machine learning expert is the one who works with various machine learning algorithms used in data science such as regression, clustering, classification, decision tree, random forest, etc.
+Skill Required: Computer programming languages such as Python, C++, R, Java, and Hadoop. 
+You should also have an understanding of various algorithms, problem-solving analytical skill, probability, and statistics.
