@@ -1,0 +1,17 @@
+roll no,name,age,address,session,group,gender,subj1,subj2,scholarship
+1,Ehtisham,23,Lahore,MORNING,group C,Male,78.3,84.4,5000
+2,Ayesha,16,Islamabad,AFT,group A,Male,70.5,60.5,6000
+3,Ali,20,Karachi,AFTERNOON,group B,Female,64.9,75.1,8500
+4,Aisha,20,Lahore,MOR,group A,Male,82,84.3,4000
+5,Ahmed,21,Peshawer,AFT,group D,Female,65.9,72.8,3500
+6,Khadija,16,Lahore,MORNING,group C,Female,69.3,78.6,
+7,Omar,12,Sialkot,AFT,group B,Female,90.2,,4000
+8,Adeen,4,Multan,MORNING,group D,Male,84.1,76,8000
+9,Zainab,18,Karachi,AFT,group C,Male,90.5,81.3,3500
+10,Hassan,15,Lahore,AFTERNOON,group D,Male,90.5,81.3,3800
+11,Hussein,12,Islamabad,MOR,group B,Male,90.5,81.3,6000
+12,Muskan,20,Karachi,AFTERNOON,group C,Male,90.5,81.3,
+13,Yusuf,18,Lahore,MORNING,group D,Male,,76.5,7000
+14,Amina,28,Multan,AFTERNOON,group A,Female,84.1,76,8000
+15,Khubaib,13,Sialkot,AFT,group C,Female,90.5,81.3,3500
+16,Dua,11,Multan,AFTERNOON,group A,Male,90.5,81.3,3800
