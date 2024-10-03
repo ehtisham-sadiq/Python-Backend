@@ -1,0 +1,11 @@
+Patient ID,Patient Name,Date of Birth,Service Date,Procedure Code,Procedure Description,Billing Amount,Insurance Provider,Policy Number
+P1001,Emily Johnson,1985-02-14,2023-09-10,99213,"Office Visit",150.00,HealthPlus,HP123456789
+P1002,Michael Smith,1978-06-22,2023-09-12,80053,"Comprehensive Metabolic Panel",80.00,MediCare,MC987654321
+P1003,Sophia Martinez,1990-11-05,2023-09-15,93000,"Electrocardiogram",200.00,SafeHealth,SH1122334455
+P1004,William Brown,1969-04-30,2023-09-18,74177,"CT Abdomen and Pelvis",1250.00,SecureLife,SL5566778899
+P1005,Olivia Davis,1982-09-17,2023-09-20,20550,"Injection; Single Tendon",300.00,HealthPlus,HP2233445566
+P1006,James Wilson,1995-12-08,2023-09-22,93010,"Routine EKG with Report",100.00,MediCare,MC6655443322
+P1007,Isabella Garcia,1975-07-19,2023-09-25,71020,"Chest X-ray",180.00,SafeHealth,SH7788990011
+P1008,Benjamin Miller,1988-03-27,2023-09-28,90658,"Flu Vaccine",50.00,SecureLife,SL9900112233
+P1009,Mia Rodriguez,2000-08-14,2023-09-30,85025,"Complete Blood Count",75.00,HealthPlus,HP3344556677
+P1010,Alexander Lee,1960-01-05,2023-10-02,93005,"ECG without Interpretation",90.00,MediCare,MC2233445566
